@@ -9,7 +9,7 @@ TABULA_CMD = 'java -jar tabula-1.0.1-jar-with-dependencies.jar -p all -a {y1},{x
 PDFS_PATH = 'data/raw-hearings-pdfs'
 # This directory stores out the output of running tabula on individual PDFs - that output has not
 # been altered at all.
-RAW_CSVS_PATH = 'data/tabula-raw-exported-command-line'
+PARSED_CSVS_PATH = 'data/tabula-raw-exported-command-line'
 
 ALL_YEARS_HEARINGS_PATH = 'data/2012_to_2017_hearings.csv'
 
@@ -60,26 +60,26 @@ def prepend_line_to_file(file_path, line_to_prepend):
 
 def combine_csvs(combined_path):
     """
-    Reads all the written CSVs (according to RAW_CSVS_PATH), and combines them into one CSV with all
+    Reads all the written CSVs (according to PARSED_CSVS_PATH), and combines them into one CSV with all
     hearings. Writes the output to `combined_path`
     """
     all_hearings = []
     for year in YEARS_TO_PROCESS:
-        one_csv = '{}/{}.csv'.format(RAW_CSVS_PATH, year)
-        with open(one_csv, 'r') as f:
-            # Skip the header
-            hearings = f.readlines()[1:]
+        one_csv = '{}/{}.csv'.format(PARSED_CSVS_PATH, year)
+        with open(one_csv) as csvfile:
+            reader = csv.DictReader(csvfile)
 
-        all_hearings.extend(hearings)
+            for row in reader:
+                all_hearings.append(row)
 
     print 'Collected {} hearings in total'.format(len(all_hearings))
 
     with open(combined_path, 'w') as f:
-        # At this point, the individual CSVs have had last names removed - so the header here should
-        # not have the `last_name` field.
-        header_line = ','.join(COLUMN_NAMES_NO_LAST_NAME) + '\n'
-        f.write(header_line)
-        f.writelines(all_hearings)
+        writer = csv.DictWriter(f, fieldnames=COLUMN_NAMES_NO_LAST_NAME)
+        writer.writeheader()
+
+        for hearing in all_hearings:
+            writer.writerow(hearing)
 
     print 'Wrote combined out to {}'.format(combined_path)
 
@@ -95,10 +95,12 @@ def combine_csvs(combined_path):
             total_lines_in_combined_output, len(all_hearings)
         )
 
-def remove_name_column(csv_path):
+def clean_raw_csv(csv_path):
     """
-    Removes the `last_name` column in the CSV present at `csv_path`, and overwrites the content of
-    `csv_path` with the same data (but without the `last_name` column).
+    1. Removes the `last_name` column in the CSV present at `csv_path`
+    2. Removes any entry that lacks a `cdc_num` entry (it was likely not parsed correctly by tabula)
+
+    Overwrites the content of `csv_path`.
     """
     data_with_last_names = []
     with open(csv_path) as csvfile:
@@ -109,7 +111,10 @@ def remove_name_column(csv_path):
 
     without_last_names = []
     for row in data_with_last_names:
-        without_last_names.append({k: v for k, v in row.iteritems() if k != 'last_name'})
+        # Skip any row that's missing a CDC number
+        cdc_num = row['cdc_num']
+        if cdc_num != '' and cdc_num is not None:
+            without_last_names.append({k: v for k, v in row.iteritems() if k != 'last_name'})
 
     with open(csv_path, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=COLUMN_NAMES_NO_LAST_NAME)
@@ -132,7 +137,7 @@ def process_raw_pdfs(years):
     """
     for year in years:
         one_pdf_path = '{}/{}.pdf'.format(PDFS_PATH, year)
-        one_csv_path = '{}/{}.csv'.format(RAW_CSVS_PATH, year)
+        one_csv_path = '{}/{}.csv'.format(PARSED_CSVS_PATH, year)
         full_cmd = TABULA_CMD.format(**{
             'y1': Y1,
             'x1': X1,
@@ -151,7 +156,7 @@ def process_raw_pdfs(years):
 
         header_line = ','.join(COLUMN_NAMES_WITH_LAST_NAME) + '\n'
         prepend_line_to_file(one_csv_path, header_line)
-        remove_name_column(one_csv_path)
+        clean_raw_csv(one_csv_path)
 
 def main():
     process_raw_pdfs(YEARS_TO_PROCESS)

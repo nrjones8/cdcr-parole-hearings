@@ -510,7 +510,6 @@ J45341,Los Angeles,,11/04/15,SUB,Deny,5 yr
 J45341,Los Angeles,,07/10/15,SUB,Postpone,0 mo
 E39558,Sacramento,,02/24/15,SUB,Stip,3 yr
 W46383,San Diego,PC 3041.2,09/09/15,SUB,Grant,
-,Los Angeles,,,,,
 P22558,"SolanoKings",,01/09/15,INITIAL,Waive,1 yr
 P22558,"SolanoKings",,12/15/15,INITIAL,Deny,7 yr
 E21585,Los Angeles,PC 3041.2,02/25/15,INITIAL,Deny,5 yr
@@ -1126,7 +1125,6 @@ E10321,"MontereyContra Costa",,06/17/15,SUB,Postpone,6 mo
 D35447,Los Angeles,,11/20/15,SUB,Waive,2 yr
 C23906,Ventura,,09/16/15,INITIAL,Postpone,0 mo
 C23906,Ventura,PC 3041.1,09/25/15,INITIAL,Stip,5 yr
-,San Luis Obispo,,,,,
 B80919,Los Angeles,PC 3041.2,10/08/15,SUB,Grant,
 C24860,San Diego,,01/06/15,SUB,Postpone,0 mo
 D01617,Riverside,,10/14/15,INITIAL,Postpone,0 mo
@@ -1161,7 +1159,6 @@ K97842,"StanislausKings",,12/15/15,INITIAL,Postpone,0 mo
 K97842,"StanislausKings",,06/24/15,INITIAL,Postpone,0 mo
 K97842,"StanislausKings",,12/17/15,INITIAL,Postpone,0 mo
 K97842,Stanislaus,,07/30/15,INITIAL,Postpone,0 mo
-,Kings,,,,,
 C66986,Kern,,02/24/15,SUB,Waive,1 yr
 C36834,Orange,,11/12/15,SUB,Deny,3 yr
 B87550,"AlamedaSolano",,10/08/15,SUB,Postpone,0 mo
@@ -1682,7 +1679,6 @@ V22758,Riverside,,07/16/15,SUB,Waive,1 yr
 P46864,San Diego,PC 3041.2,03/24/15,SUB,Deny,3 yr
 H69939,Alameda,PC 3041.1,06/02/15,INITIAL,Deny,7 yr
 P88225,Sacramento,,07/08/15,INITIAL,Postpone,0 mo
-,San Bernardino,,,,,
 D10244,Riverside,PC 3041.2,06/02/15,SUB,Deny,3 yr
 H39349,"Los AngelesLassen",PC 3041.2,03/25/15,INITIAL,Deny,10 yr
 J18034,Los Angeles,,01/28/15,SUB,Deny,3 yr
@@ -1876,7 +1872,6 @@ E90889,Fresno,PC 3041.1,07/29/15,SUB,Grant,
 D83830,"ImperialLos Angeles",PC 3041.2,03/05/15,SUB,Deny,3 yr
 W30014,San Bernardino,PC 3041.2,08/25/15,SUB,Deny,3 yr
 D60140,Los Angeles,PC 3041.2,05/13/15,SUB,Deny,3 yr
-,Los Angeles,,,,,
 D12624,Los Angeles,,01/23/15,SUB,Stip,3 yr
 D24752,Los Angeles,PC 3041.2,07/01/15,SUB,Grant,
 AE9350,Tulare,,11/19/15,INITIAL,Postpone,0 mo
@@ -1904,7 +1899,6 @@ B50186,Los Angeles,PC 3041.2,09/24/15,SUB,Deny,3 yr
 B50186,Los Angeles,,09/02/15,SUB,Postpone,0 mo
 E93973,Los Angeles,PC 3041.2,06/10/15,SUB,Deny,3 yr
 B53127,Los Angeles,,07/23/15,SUB,Postpone,0 mo
-,Monterey,,,,,
 C24442,"San FranciscoSacramento",PC 3041.2,09/29/15,SUB,Deny,3 yr
 W61645,San Mateo,PC 3041.2,05/21/15,SUB,Deny,3 yr
 P13045,"Los AngelesKingsRiverside",,10/27/15,INITIAL,Postpone,0 mo
@@ -1972,7 +1966,6 @@ H20340,Alameda,PC 3041.2,02/20/15,INITIAL,Deny,7 yr
 B64644,San Diego,,01/09/15,SUB,Deny,3 yr
 J92798,Shasta,PC 3041.2,06/02/15,SUB,Deny,3 yr
 D10713,Alameda,PC 3041.2,10/15/15,SUB,Grant,
-,Sacramento,,,,,
 C52592,Los Angeles,,10/06/15,SUB,Postpone,0 mo
 H16381,San Diego,PC 3041.2,06/24/15,SUB,Grant,
 D91660,Orange,,01/28/15,SUB,Postpone,0 mo
@@ -2038,7 +2031,6 @@ H94609,Contra Costa,PC 3041.1,12/08/15,SUB,Grant,
 H94609,Contra Costa,,12/08/15,SUB,Postpone,0 mo
 P18841,Riverside,PC 3041.2,09/15/15,INITIAL,Deny,5 yr
 C70679,"Santa ClaraSan Mateo",PC 3041.1,05/21/15,INITIAL,Deny,3 yr
-,Yolo,,,,,
 D41502,Alameda,PC 3041.2,04/15/15,SUB,Deny,3 yr
 C55379,Kern,PC 3041.2,05/21/15,SUB,Deny,5 yr
 C67473,San Bernardino,,09/09/15,SUB,Postpone,0 mo
@@ -2302,7 +2294,6 @@ J57397,Los Angeles,,02/13/15,INITIAL,Deny,5 yr
 D72171,San Bernardino,,05/28/15,SUB,Postpone,0 mo
 D72171,San Bernardino,PC 3041.1,06/17/15,SUB,Deny,3 yr
 J21875,Kern,,11/18/15,INITIAL,Continue,6 mo
-,Amador,,,,,
 J21875,"KernAmador",,08/19/15,INITIAL,Postpone,0 mo
 D74300,"San FranciscoSan Mateo",,06/03/15,SUB,Waive,1 yr
 J13285,Los Angeles,,12/09/15,SUB,Deny,3 yr
@@ -2715,7 +2706,6 @@ E29675,Los Angeles,PC 3041.2,02/24/15,SUB,Grant,
 D71520,San Bernardino,,09/01/15,SUB,Waive,3 yr
 H64386,Fresno,PC 3041.2,07/28/15,SUB,Deny,3 yr
 J87662,Los Angeles,PC 3041.2,02/26/15,INITIAL,Deny,10 yr
-,Riverside,,,,,
 X10787,Santa Clara,PC 3041.1,07/10/15,SUB,Deny,5 yr
 C39610,San Diego,PC 3041.1,09/11/15,INITIAL,Deny,7 yr
 C39610,San Diego,,07/01/15,INITIAL,Postpone,0 mo
@@ -3397,7 +3387,6 @@ H46408,San Bernardino,PC 3041.2,07/08/15,SUB,Deny,5 yr
 T16959,El Dorado,PC 3041.2,10/14/15,SUB,Grant,
 H84241,Los Angeles,PC 3041.2,02/27/15,SUB,Deny,5 yr
 T56762,"SacramentoSolano",,09/09/15,INITIAL,Postpone,0 mo
-,Solano,,,,,
 D36827,"SacramentoPlacer",PC 3041.2,11/12/15,SUB,Grant,
 C04009,San Francisco,PC 3041.2,05/05/15,SUB,Deny,5 yr
 J23017,Orange,PC 3041.2,06/24/15,SUB,Grant,
@@ -3501,7 +3490,6 @@ T29147,Ventura,PC 3041.2,08/05/15,INITIAL,Deny,5 yr
 E59723,Orange,PC 3041.2,10/07/15,INITIAL,Stip,5 yr
 C79902,"AlamedaSan Joaquin",,12/15/15,SUB,Deny,5 yr
 C79902,Alameda,,06/23/15,SUB,Postpone,0 mo
-,San Joaquin,,,,,
 K72038,Madera,,12/10/15,INITIAL,Postpone,0 mo
 K72038,Madera,,12/08/15,INITIAL,Postpone,0 mo
 D91939,San Diego,PC 3041.2,09/01/15,SUB,Grant,
@@ -3870,7 +3858,6 @@ C85467,Sacramento,,06/12/15,INITIAL,Postpone,0 mo
 B72683,San Francisco,,09/02/15,SUB,Postpone,9 mo
 W35331,Riverside,PC 3041.2,05/05/15,SUB,Deny,3 yr
 C57467,Sacramento,,04/30/15,INITIAL,Waive,1 yr
-,Los Angeles,,,,,
 D06522,Los Angeles,PC 3041.1,08/13/15,SUB,Deny,3 yr
 E17509,Riverside,PC 3041.2,07/30/15,SUB,Grant,
 J58067,Los Angeles,,12/09/15,SUB,Postpone,0 mo
@@ -4837,7 +4824,6 @@ H84691,Los Angeles,PC 3041.1,09/24/15,SUB,Deny,3 yr
 H00829,Los Angeles,PC 3041.2,09/02/15,SUB,Deny,3 yr
 H84691,Los Angeles,,05/27/15,SUB,Postpone,0 mo
 T86294,Santa Clara,,05/07/15,INITIAL,Waive,2 yr
-,Marin,,,,,
 E49972,Los Angeles,PC 3041.2,03/27/15,SUB,Deny,3 yr
 C08768,Riverside,,12/09/15,SUB,Waive,1 yr
 H32014,Los Angeles,,11/17/15,SUB,Deny,3 yr
@@ -5190,7 +5176,6 @@ C04779,Santa Clara,,08/12/15,SUB,Continue,6 mo
 C04779,Santa Clara,,12/04/15,SUB,Waive,1 yr
 D36154,"San JoaquinContra Costa",,11/04/15,SUB,Waive,1 yr
 C11945,Los Angeles,PC 3041.1,09/02/15,SUB,Deny,3 yr
-,"MarinSanta Cruz",,,,,
 H76252,Alameda,PC 3041.2,03/18/15,SUB,Deny,3 yr
 K21581,Kern,,12/03/15,SUB,Deny,5 yr
 C67338,Los Angeles,,12/09/15,SUB,Deny,3 yr

@@ -70,7 +70,6 @@ J96965,Los Angeles,,11/08/12,INITIAL,Postpone,0 mo
 C13125,Los Angeles,,03/21/12,SUB 12,Waive,1 yr
 C11949,San Francisco,PC 3041.2,01/11/12,SUB 13,Grant,
 B81763,Kern,,07/10/12,SUB 5,Stip,3 yr
-,"Los AngelesSacramento",,,,,
 H10526,"SacramentoEl Dorado",,10/30/12,INITIAL,Deny,15 yr
 C55414,San Bernardino,,01/12/12,SUB 5,Deny,5 yr
 C43776,San Francisco,,06/20/12,SUB 6,Deny,3 yr
@@ -854,7 +853,6 @@ C26141,"ImperialOrangeOut of Country",,11/08/12,SUB 9,Deny,7 yr
 H26193,Riverside,,10/25/12,SUB 1,Waive,1 yr
 C61550,Los Angeles,,10/11/12,SUB 11,Waive,2 yr
 E52117,Los Angeles,,08/09/12,SUB 1,Waive,1 yr
-,Out of Country,,,,,
 E14737,San Diego,,10/02/12,SUB 4,Postpone,0 mo
 B64633,Los Angeles,,09/05/12,SUB 14,Deny,3 yr
 E14737,San Diego,PC 3041.2,11/06/12,SUB 4,Grant,
@@ -1218,7 +1216,6 @@ C29094,Ventura,,09/25/12,SUB 8,Deny,3 yr
 E77649,Santa Barbara,,11/27/12,SUB 3,Deny,3 yr
 J02741,San Joaquin,,01/03/12,INITIAL,Stip,5 yr
 K66612,Yuba,,07/24/12,INITIAL,Postpone,0 mo
-,Placer,,,,,
 K66612,"YubaPlacer",,08/01/12,INITIAL,Deny,5 yr
 E83280,Sacramento,,04/18/12,SUB 5,Deny,3 yr
 B90114,Los Angeles,,01/12/12,SUB 9,Deny,3 yr
@@ -1782,7 +1779,6 @@ K64159,San Mateo,,12/04/12,SUB 4,Deny,3 yr
 W95684,Alameda,,11/27/12,INITIAL,Deny,5 yr
 H59815,Alameda,,10/31/12,SUB 1,Deny,3 yr
 J57394,"Los AngelesOut of Country",,09/13/12,INITIAL,Deny,7 yr
-,,,,,,
 H23227,San Diego,,08/21/12,SUB 4,Deny,3 yr
 C55945,Los Angeles,,03/01/12,SUB 3,Stip,3 yr
 K32508,San Bernardino,,09/25/12,SUB 2,Stip,3 yr
@@ -2317,7 +2313,6 @@ D08911,Los Angeles,,09/27/12,SUB 8,Postpone,0 mo
 D08911,Los Angeles,,10/23/12,SUB 8,Stip,5 yr
 H62233,Los Angeles,,03/16/12,SUB 01,Waive,3 yr
 C77614,Inyo,,03/13/12,SUB 4,Postpone,0 mo
-,Out of Country,,,,,
 E29674,Los Angeles,,09/11/12,SUB 3,Postpone,0 mo
 E29674,Los Angeles,,09/11/12,SUB 3,Waive,1 yr
 C82516,Los Angeles,,05/10/12,SUB 10,Deny,3 yr
@@ -2560,7 +2555,6 @@ K10089,Riverside,,03/14/12,INITIAL,Waive,3 yr
 C00720,Alameda,,02/03/12,SUB 20,Waive,1 yr
 C39005,Los Angeles,,07/20/12,INITIAL,Waive,1 yr
 E74652,"YubaSacramento",,02/14/12,INITIAL,Waive,2 yr
-,Placer,,,,,
 C12906,Napa,,07/20/12,SUB 9,Cancel,0 mo
 C12906,Napa,PC 3041.2,02/14/12,SUB 9,Grant,
 C12906,Napa,PC 3041.2,08/17/12,SUB 9,Grant,
@@ -3353,7 +3347,6 @@ C53805,San Bernardino,PC 3041.1,06/28/12,SUB 14,Grant,
 H08146,Sacramento,,04/25/12,INITIAL,Waive,2 yr
 C28610,"San JoaquinOut of Country",,07/25/12,SUB 4,Deny,5 yr
 J05531,San Francisco,,05/24/12,SUB 1,Waive,2 yr
-,Sacramento,,,,,
 E37606,San Joaquin,,08/17/12,SUB 8,Postpone,0 mo
 E37606,San Joaquin,PC 3041.2,09/14/12,SUB 8,Grant,
 C50736,Santa Clara,,01/10/12,SUB 3,Deny,5 yr
@@ -4362,7 +4355,6 @@ C27037,San Francisco,,08/23/12,SUB 1,Postpone,0 mo
 E08434,Los Angeles,,09/27/12,SUB 5,Postpone,6 mo
 H07652,San Bernardino,PC 3041.2,06/13/12,SUB 5,Grant,
 B61862,San Francisco,,05/22/12,SUB 15,Deny,3 yr
-,San Joaquin,,,,,
 C20219,Los Angeles,,06/29/12,SUB 10,Stip,5 yr
 J72450,Sacramento,PC 3041.2,05/02/12,SUB 3,Grant,
 K09932,Merced,PC 3041.2,06/21/12,SUB 2,Grant,
@@ -4539,7 +4531,6 @@ E28520,"RiversideSan Bernardino",,03/07/12,SUB 2,Stip,5 yr
 E31350,Los Angeles,,05/01/12,SUB 3,Waive,1 yr
 E55242,Inyo,,06/06/12,SUB 2,Deny,3 yr
 C14436,"San BernardinoOut of Country",,04/04/12,SUB 08,Stip,5 yr
-,Out of Country,,,,,
 C87920,Orange,,08/22/12,SUB 3,Postpone,0 mo
 C87920,Orange,,10/30/12,SUB 3,Waive,1 yr
 C47594,Orange,PC 3041.2,07/05/12,SUB 6,Grant,
@@ -4688,7 +4679,6 @@ W34539,Los Angeles,,12/19/12,SUB 4,Deny,3 yr
 W34539,Los Angeles,,10/09/12,SUB 4,Postpone,0 mo
 D78824,Orange,,06/26/12,SUB 4,Deny,3 yr
 C67338,Los Angeles,,11/07/12,SUB 02,Deny,3 yr
-,Out of Country,,,,,
 C67338,"Los AngelesOut of Country",,09/26/12,SUB 02,Postpone,0 mo
 D67145,"Los AngelesOut of Country",,10/23/12,SUB 1,Waive,1 yr
 C36405,Contra Costa,,01/24/12,SUB 4,Deny,3 yr

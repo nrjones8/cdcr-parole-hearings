@@ -67,7 +67,6 @@ C51505,"StanislausOut of Country",,10/02/13,SUB 2,Waive,1 yr
 C51505,"StanislausOut of Country",,05/08/13,SUB 2,Postpone,6 mo
 J31382,Los Angeles,,08/15/13,INITIAL,Postpone,0 mo
 B72288,Monterey,,01/24/13,SUB 07,Waive,3 yr
-,Los Angeles,,,,,
 D42489,Los Angeles,,01/11/13,SUB 4,Deny,3 yr
 J31382,Los Angeles,PC 3041.2,11/26/13,INITIAL,Grant,
 C74161,Sutter,PC 3041.2,03/07/13,INITIAL,Grant,
@@ -531,7 +530,6 @@ D08165,Los Angeles,PC 3041.2,06/12/13,SUB 4,Grant,
 D08165,Los Angeles,,05/09/13,SUB 4,Postpone,0 mo
 C02324,Los Angeles,,01/10/13,SUB 11,Waive,3 yr
 J58007,Monterey,,05/08/13,SUB 1,Waive,5 yr
-,"Los AngelesOut of Country",,,,,
 C47412,Los Angeles,PC 3041.2,03/06/13,SUB 5,Grant,
 J17829,Sacramento,,01/23/13,SUB 1,Deny,5 yr
 D03503,San Diego,PC 3041.2,06/25/13,SUB 5,Grant,
@@ -2935,7 +2933,6 @@ K04452,Los Angeles,,01/10/13,INITIAL,Stip,3 yr
 G08754,Los Angeles,,01/30/13,INITIAL,Postpone,6 mo
 G08754,Los Angeles,,05/07/13,INITIAL,Deny,3 yr
 A88401,Monterey,,10/22/13,SUB 9,Continue,6 mo
-,"San FranciscoSacramentoMarin",,,,,
 A88401,"MontereySan FranciscoSacramentoMarin",,04/23/13,SUB 9,Postpone,6 mo
 K02799,Kern,,04/30/13,SUB 2,Deny,3 yr
 J44847,San Diego,PC 3041.2,06/06/13,SUB 4,Grant,
@@ -4005,7 +4002,6 @@ J43976,Los Angeles,,06/05/13,SUB 1,Postpone,0 mo
 J43976,Los Angeles,,07/23/13,SUB 1,Deny,5 yr
 C20170,Alameda,,01/08/13,SUB 6,Deny,3 yr
 E64224,"KernOrangeKings",,07/11/13,SUB 1,Postpone,0 mo
-,"Del NorteOut of Country",,,,,
 E64224,"KernOrangeKingsDel NorteOut of Country",,07/30/13,SUB 1,Postpone,0 mo
 E64224,"KernOrangeKingsDel NorteOut of Country",,07/11/13,SUB 1,Stip,3 yr
 C97141,Los Angeles,,04/03/13,SUB 05,Waive,1 yr

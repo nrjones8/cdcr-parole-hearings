@@ -100,7 +100,6 @@ J73999,San Diego,PC 3041.1,08/10/17,INITIAL,Grant,
 D45204,"MontereyLos Angeles",,07/26/17,INITIAL,Stip,3 yr
 H76264,"SacramentoSolano",,11/14/17,SUB,Stip,3 yr
 V34222,"OrangeLassen",,06/21/17,INITIAL,Stip,3 yr
-,Los Angeles,,,,,
 C46132,Los Angeles,PC 3041.2,05/19/17,SUB,Grant,
 B64104,"AlamedaMarin",,09/14/17,SUB,Stip,3 yr
 D95068,Los Angeles,,01/24/17,INITIAL,Deny,3 yr
@@ -236,7 +235,6 @@ AR8288,Riverside,,11/09/17,INITIAL,Postpone,0 mo
 AR8288,Riverside,,12/29/17,INITIAL,Deny,7 yr
 F02594,Los Angeles,,10/13/17,INITIAL,Deny,5 yr
 T25040,Kern,,02/24/17,INITIAL,Deny,10 yr
-,Kings,,,,,
 J86625,San Francisco,,07/07/17,SUB,Deny,3 yr
 B31474,San Joaquin,PC 3041.2,10/31/17,SUB,Grant,
 H34710,San Diego,,05/23/17,INITIAL,Waive,1 yr
@@ -496,7 +494,6 @@ H48354,Los Angeles,PC 3041.2,10/05/17,SUB,Grant,
 K54719,Fresno,,03/09/17,SUB,Stip,3 yr
 D53715,"San DiegoSacramentoDel Norte",,07/05/17,SUB,Waive,3 yr
 D53715,San Diego,,03/08/17,SUB,Postpone,0 mo
-,"SacramentoDel Norte",,,,,
 D53715,"San DiegoSacramentoDel Norte",,06/22/17,SUB,Postpone,0 mo
 C66936,Los Angeles,,12/27/17,SUB,Postpone,6 mo
 K77239,Tulare,,02/28/17,INITIAL,Deny,5 yr
@@ -531,7 +528,6 @@ G53227,San Francisco,,04/26/17,INITIAL,Deny,3 yr
 H40512,Calaveras,,05/24/17,SUB,Deny,3 yr
 B74384,San Francisco,,08/09/17,SUB,Deny,3 yr
 P02115,Imperial,,05/25/17,INITIAL,Stip,5 yr
-,Los Angeles,,,,,
 E24820,Los Angeles,,08/09/17,SUB,Deny,3 yr
 H40512,Calaveras,,05/18/17,SUB,Postpone,0 mo
 D81611,"MontereyFresno",,12/22/17,SUB,Postpone,0 mo
@@ -598,7 +594,6 @@ D25730,Ventura,,04/05/17,SUB,Deny,3 yr
 E93085,"SolanoRiverside",,11/01/17,INITIAL,Deny,3 yr
 C13232,Los Angeles,,03/29/17,SUB,Postpone,0 mo
 E46727,Imperial,,12/27/17,SUB,Postpone,0 mo
-,Los Angeles,,,,,
 C12046,Los Angeles,,02/15/17,SUB,Deny,5 yr
 H10612,Sacramento,PC 3041.2,02/15/17,SUB,Grant,
 B98959,Ventura,PC 3041.2,04/05/17,SUB,Grant,
@@ -1510,7 +1505,6 @@ J69194,Tulare,PC 3041.2,02/07/17,SUB,Grant,
 C64338,Riverside,,02/15/17,SUB,Deny,3 yr
 E05862,Riverside,,06/08/17,SUB,Deny,3 yr
 K32249,San Diego,,08/04/17,INITIAL,Stip,3 yr
-,Sacramento,,,,,
 K98703,Fresno,PC 3041.1,07/27/17,SUB,Grant,
 H19596,Los Angeles,,06/14/17,SUB,Deny,3 yr
 C17864,Los Angeles,PC 3041.2,12/15/17,SUB,Grant,
@@ -1579,7 +1573,6 @@ P35248,San Bernardino,,05/03/17,INITIAL,Waive,1 yr
 C41294,Los Angeles,,05/18/17,INITIAL,Stip,3 yr
 F04156,San Bernardino,,05/23/17,INITIAL,Stip,5 yr
 J92582,Los Angeles,,08/29/17,SUB,Waive,1 yr
-,San Luis Obispo,,,,,
 H30614,Orange,,10/11/17,SUB,Deny,7 yr
 D44421,San Bernardino,,11/16/17,SUB,Postpone,0 mo
 C92297,Monterey,,06/15/17,SUB,Waive,1 yr
@@ -2252,7 +2245,6 @@ H56759,Los Angeles,,10/12/17,SUB,Postpone,0 mo
 D47856,San Diego,,06/13/17,SUB,Postpone,0 mo
 D47856,San Diego,,06/06/17,SUB,Deny,5 yr
 E36250,"MontereyKern",,05/11/17,SUB,Deny,3 yr
-,Los Angeles,,,,,
 C80766,Los Angeles,,12/08/17,SUB,Deny,15 yr
 K80830,Los Angeles,PC 3041.1,04/05/17,SUB,Grant,
 H48579,San Bernardino,PC 3041.2,09/21/17,SUB,Grant,
@@ -2281,7 +2273,6 @@ J08453,Sacramento,,06/08/17,SUB,Deny,5 yr
 B65221,"FresnoStanislausSacramentoAmador",,10/27/17,SUB,Waive,1 yr
 B65221,"FresnoStanislausSacramentoAmador",,07/06/17,SUB,Postpone,0 mo
 B65221,"FresnoStanislausSacramentoAmador",,11/14/17,SUB,Postpone,0 mo
-,"SacramentoAmador",,,,,
 H44231,Sutter,,09/13/17,SUB,Deny,5 yr
 D60921,Shasta,,07/06/17,SUB,Stip,5 yr
 W27774,Los Angeles,,03/01/17,SUB,Deny,3 yr
@@ -2787,7 +2778,6 @@ V06064,Los Angeles,,04/27/17,INITIAL,Postpone,0 mo
 V06064,Los Angeles,,08/30/17,INITIAL,Stip,3 yr
 V38772,Los Angeles,,01/11/17,INITIAL,Deny,3 yr
 K30562,"ShastaKings",,03/08/17,SUB,Stip,5 yr
-,Lassen,,,,,
 J97489,Santa Clara,,09/07/17,INITIAL,Stip,3 yr
 J97489,Santa Clara,,07/27/17,INITIAL,Postpone,0 mo
 C83744,"SacramentoLos Angeles",,04/27/17,SUB,Stip,5 yr
@@ -3971,7 +3961,6 @@ J88079,Riverside,,10/04/17,SUB,Deny,3 yr
 K50719,San Diego,,03/22/17,INITIAL,Deny,3 yr
 K81652,San Diego,,01/31/17,INITIAL,Postpone,0 mo
 C47067,Kern,,04/27/17,SUB,Postpone,0 mo
-,"San JoaquinSacramento",,,,,
 C47067,"KernSan JoaquinSacramento",,06/16/17,SUB,Waive,1 yr
 T74283,"Los AngelesRiverside",,04/14/17,INITIAL,Continue,6 mo
 D22737,"MontereyLos Angeles",,11/01/17,SUB,Postpone,0 mo
@@ -4030,7 +4019,6 @@ J52527,"SolanoLos AngelesRiverside",,03/23/17,SUB,Deny,10 yr
 J99707,Los Angeles,PC 3041.2,05/05/17,SUB,Grant,
 P10702,San Bernardino,PC 3041.1,05/02/17,SUB,Grant,
 C43496,San Diego,,06/13/17,SUB,Deny,3 yr
-,"Los AngelesKings",,,,,
 H83070,Los Angeles,,06/14/17,SUB,Stip,5 yr
 C88418,Riverside,,03/15/17,SUB,Stip,3 yr
 E26243,San Diego,,02/28/17,SUB,Deny,3 yr
@@ -4061,7 +4049,6 @@ AA6446,Orange,PC 3041.1,05/23/17,INITIAL,Grant,
 P10322,Orange,PC 3041.2,02/15/17,INITIAL,Grant,
 P07282,Orange,PC 3041.2,06/14/17,INITIAL,Grant,
 W23983,"MaderaLos AngelesRiversideSan Bernardino",,04/14/17,SUB,Stip,3 yr
-,Sacramento,,,,,
 W95750,Butte,,05/31/17,SUB,Deny,3 yr
 J62318,Los Angeles,PC 3041.2,08/02/17,SUB,Grant,
 K00467,Los Angeles,PC 3041.2,08/31/17,SUB,Grant,
@@ -4232,7 +4219,6 @@ H21387,Los Angeles,,01/25/17,SUB,Postpone,0 mo
 D14650,Los Angeles,,12/07/17,SUB,Postpone,0 mo
 J48914,Los Angeles,,02/01/17,INITIAL,Deny,5 yr
 H35838,Los Angeles,,02/10/17,SUB,Deny,3 yr
-,Los Angeles,,,,,
 E98522,"ImperialLos Angeles",,06/27/17,INITIAL,Stip,5 yr
 C47475,Los Angeles,,06/16/17,SUB,Deny,3 yr
 P74218,"MontereySan Joaquin",,12/13/17,SUB,Waive,1 yr
@@ -4544,7 +4530,6 @@ T22509,Tehama,,04/06/17,SUB,Postpone,0 mo
 D43810,Los Angeles,,07/20/17,INITIAL,Deny,10 yr
 D43810,Los Angeles,,02/08/17,INITIAL,Postpone,0 mo
 C87900,"AlamedaKings",,08/30/17,SUB,Deny,3 yr
-,Solano,,,,,
 C45703,"ImperialLos Angeles",,03/29/17,SUB,Deny,3 yr
 T22509,Tehama,,03/14/17,SUB,Deny,10 yr
 T63673,Los Angeles,,09/27/17,SUB,Postpone,0 mo
@@ -4705,7 +4690,6 @@ C87427,Los Angeles,,06/14/17,INITIAL,Waive,3 yr
 P84164,Los Angeles,,11/07/17,INITIAL,Postpone,0 mo
 B68010,Orange,,10/03/17,SUB,Deny,3 yr
 D59327,San Bernardino,,03/09/17,SUB,Postpone,0 mo
-,Solano,,,,,
 J14254,Los Angeles,,07/11/17,SUB,Stip,3 yr
 D59327,San Bernardino,,06/30/17,SUB,Stip,5 yr
 H49684,San Diego,PC 3041.2,11/30/17,SUB,Grant,
@@ -4775,7 +4759,6 @@ E31757,San Diego,PC 3041.2,02/01/17,SUB,Grant,
 H60177,San Diego,,05/04/17,SUB,Deny,3 yr
 K27538,Santa Clara,PC 3041.1,02/08/17,INITIAL,Grant,
 J93373,"AlamedaOrange",,06/22/17,SUB,Postpone,0 mo
-,Los Angeles,,,,,
 J93373,"AlamedaOrangeLos Angeles",,06/29/17,SUB,Postpone,0 mo
 J37870,Santa Clara,,08/09/17,SUB,Stip,3 yr
 K52363,Santa Clara,,03/28/17,SUB,Postpone,6 mo
